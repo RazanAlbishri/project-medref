@@ -1,0 +1,5 @@
+request_id,customer_id,request_date,amount,state
+R001,C002,6/5/2026,1000,approved
+R002,C004,5/10/2026,800,rejected
+R003,C001,5/20/2026,2000,approved
+R004,C003,6/1/2026,2000,confirmed

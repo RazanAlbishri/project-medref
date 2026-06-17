@@ -1,0 +1,6 @@
+customer_id,full_name,company_name,company_status,net_salary,joining_date,contract_expiry_date
+C001,Ahmed Ali,Alpha Medical,active,6000,1/15/2024,1/31/2027
+C002,Sara Omar,Alpha Medical,active,4000,8/1/2023,12/31/2026
+C003,Khaled Saad,Beta Clinic,suspended,8000,5/20/2022,5/20/2027
+C004,Nora Fahad,Alpha Medical,active,2800,1/1/2025,9/30/2026
+C005,Mohammed Saleh,Gamma Health,active,9000,3/10/2020,6/25/2026
