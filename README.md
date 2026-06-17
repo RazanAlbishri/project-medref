@@ -19,6 +19,7 @@ It applies business rules to check eligibility, calculate fees, VAT, and total p
 
 ## Project Structure
 project/
+
 │── app.py  
 │── data/  
     │── customers.csv  
